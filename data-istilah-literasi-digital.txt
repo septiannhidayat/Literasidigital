@@ -1,0 +1,274 @@
+40 Istilah Literasi Digital yang Berkaitan dengan Pembuatan Buku, Jurnal Ilmiah, dan Publikasi Digital
+
+Penulis: Septian Hidayat
+Kategori: Literasi Digital dan Kecerdasan Buatan (AI)
+
+Pendahuluan
+
+Di era digital, perkembangan teknologi memberikan banyak kemudahan dalam proses pembuatan buku, penulisan jurnal ilmiah, dan penyebaran informasi melalui internet. Berbagai perangkat lunak, platform digital, dan teknologi kecerdasan buatan atau Artificial Intelligence (AI) dapat membantu penulis dalam mencari referensi, menyusun naskah, mengelola sumber pustaka, hingga menerbitkan karya secara digital.
+
+Namun, kemudahan tersebut juga menuntut pemahaman mengenai literasi digital. Seorang penulis perlu mengetahui cara menggunakan teknologi dengan tepat, memeriksa kebenaran informasi, menghargai hak cipta, serta menjaga integritas akademik.
+
+Berikut adalah 40 istilah penting dalam literasi digital yang berkaitan dengan pembuatan buku, jurnal ilmiah, dan publikasi digital.
+
+A. Istilah Dasar Penulisan Digital
+
+1. Literasi Digital
+
+Literasi digital adalah kemampuan untuk mengakses, memahami, mengevaluasi, membuat, dan membagikan informasi menggunakan teknologi digital secara bijak dan bertanggung jawab.
+
+Contoh: Mahasiswa menggunakan sumber internet untuk menyusun makalah, kemudian memeriksa kebenaran informasi sebelum mengutipnya.
+
+2. Digital Publishing
+
+Digital publishing atau penerbitan digital adalah proses menerbitkan dan menyebarkan karya melalui media elektronik, seperti situs web, blog, buku elektronik, dan platform jurnal daring.
+
+Contoh: Menerbitkan buku dalam format PDF agar dapat dibaca melalui komputer atau ponsel.
+
+3. E-book (Electronic Book)
+
+E-book adalah buku dalam format digital yang dapat dibaca melalui perangkat elektronik. Formatnya dapat berupa EPUB, PDF, atau format digital lainnya.
+
+Contoh: Buku panduan penggunaan AI yang diterbitkan dalam format EPUB.
+
+4. Manuskrip
+
+Manuskrip adalah naskah karya tulis yang disiapkan untuk diterbitkan atau dipublikasikan. Manuskrip dapat berupa buku, artikel ilmiah, maupun karya tulis lainnya.
+
+Contoh: Naskah buku yang sedang disunting sebelum dikirimkan ke penerbit.
+
+5. Naskah Digital
+
+Naskah digital adalah dokumen tulisan yang dibuat, disimpan, dan diedit menggunakan perangkat elektronik.
+
+Contoh: Naskah buku yang disusun menggunakan Microsoft Word atau Google Docs.
+
+6. Content Management System (CMS)
+
+CMS adalah sistem yang digunakan untuk membuat, mengelola, dan menerbitkan konten digital tanpa harus membangun seluruh situs web dari awal.
+
+Contoh: WordPress digunakan untuk mengelola artikel dan halaman blog.
+
+B. Istilah dalam Penulisan dan Penyuntingan Buku
+
+7. Word Processing
+
+Word processing adalah proses pengolahan dokumen teks menggunakan perangkat lunak untuk menulis, mengedit, dan memformat naskah.
+
+Contoh: Menggunakan Microsoft Word atau LibreOffice Writer untuk menyusun buku.
+
+8. Formatting
+
+Formatting adalah proses mengatur tampilan dokumen, seperti jenis huruf, ukuran teks, margin, spasi, penomoran halaman, dan judul bab.
+
+Contoh: Mengatur ukuran kertas dan margin agar naskah buku sesuai dengan ketentuan penerbit.
+
+9. Layout
+
+Layout adalah tata letak elemen dalam halaman, termasuk teks, gambar, tabel, judul, dan nomor halaman.
+
+Contoh: Menata halaman buku agar nyaman dibaca dalam bentuk cetak maupun digital.
+
+10. Typography
+
+Tipografi adalah seni dan teknik mengatur huruf agar teks mudah dibaca sekaligus memiliki tampilan yang sesuai dengan tujuan publikasi.
+
+Contoh: Memilih jenis dan ukuran huruf yang konsisten untuk isi buku dan judul bab.
+
+11. Proofreading
+
+Proofreading adalah pemeriksaan akhir terhadap naskah untuk menemukan kesalahan ejaan, tanda baca, pengetikan, dan inkonsistensi kecil lainnya.
+
+Contoh: Memeriksa kembali naskah sebelum buku diterbitkan.
+
+12. Editing
+
+Editing adalah proses memperbaiki dan menyempurnakan naskah dari segi bahasa, kejelasan, struktur, konsistensi, dan alur pembahasan.
+
+Contoh: Mengubah paragraf yang sulit dipahami menjadi lebih jelas dan sistematis.
+
+13. ISBN (International Standard Book Number)
+
+ISBN adalah nomor identifikasi standar internasional untuk buku atau publikasi tertentu yang memenuhi ketentuan ISBN. Nomor ini membantu membedakan suatu terbitan buku dari terbitan lainnya.
+
+Contoh: Buku yang diterbitkan secara resmi dapat memiliki ISBN sesuai ketentuan yang berlaku.
+
+14. EPUB
+
+EPUB adalah format buku digital yang umumnya memungkinkan teks menyesuaikan diri dengan ukuran layar dan pengaturan pembaca.
+
+Contoh: Membuat buku elektronik yang nyaman dibaca melalui ponsel, tablet, atau e-reader.
+
+15. PDF (Portable Document Format)
+
+PDF adalah format dokumen yang dirancang untuk mempertahankan tata letak, teks, dan elemen visual agar tampil relatif konsisten pada berbagai perangkat.
+
+Contoh: Membagikan naskah buku atau modul pembelajaran kepada pembaca melalui blog.
+
+C. Istilah dalam Penulisan Jurnal Ilmiah
+
+16. Jurnal Ilmiah
+
+Jurnal ilmiah adalah publikasi berkala yang memuat artikel ilmiah dalam bidang tertentu. Artikel yang diterbitkan dapat melalui proses penelaahan ilmiah sesuai kebijakan jurnal tersebut.
+
+Contoh: Jurnal yang memublikasikan penelitian tentang pemanfaatan AI dalam pendidikan.
+
+17. Artikel Ilmiah
+
+Artikel ilmiah adalah tulisan yang membahas suatu topik berdasarkan penelitian, kajian pustaka, analisis, atau metode ilmiah lainnya.
+
+Contoh: Artikel yang mengkaji pengaruh penggunaan AI terhadap proses belajar mahasiswa.
+
+18. Abstract (Abstrak)
+
+Abstrak adalah ringkasan singkat suatu artikel ilmiah yang umumnya mencakup tujuan, metode, hasil, dan kesimpulan penelitian.
+
+Contoh: Pembaca dapat memahami gambaran utama penelitian melalui abstrak sebelum membaca keseluruhan artikel.
+
+19. Keywords (Kata Kunci)
+
+Kata kunci adalah istilah utama yang mewakili topik atau isi sebuah artikel ilmiah. Kata kunci membantu proses pencarian dan pengindeksan artikel.
+
+Contoh: Artikel tentang AI dalam pendidikan dapat menggunakan kata kunci “kecerdasan buatan”, “literasi digital”, dan “pembelajaran”.
+
+20. Literature Review (Tinjauan Pustaka)
+
+Tinjauan pustaka adalah pembahasan kritis terhadap penelitian dan sumber ilmiah terdahulu yang relevan dengan suatu topik.
+
+Contoh: Penulis membandingkan beberapa penelitian tentang penggunaan AI dalam pendidikan untuk menemukan kesenjangan penelitian.
+
+21. Methodology (Metodologi Penelitian)
+
+Metodologi penelitian adalah penjelasan mengenai pendekatan dan cara yang digunakan untuk menjawab pertanyaan penelitian.
+
+Contoh: Penelitian menggunakan metode survei untuk mengetahui kebiasaan mahasiswa menggunakan AI.
+
+22. Peer Review
+
+Peer review adalah proses penilaian suatu naskah oleh ahli atau penelaah yang memiliki kompetensi dalam bidang terkait.
+
+Contoh: Artikel yang dikirimkan ke jurnal ditelaah oleh pakar sebelum diputuskan untuk diterima, direvisi, atau ditolak.
+
+23. DOI (Digital Object Identifier)
+
+DOI adalah pengenal digital yang digunakan untuk mengidentifikasi objek digital secara persisten, seperti artikel ilmiah atau bab buku tertentu.
+
+Contoh: DOI dapat membantu pembaca menemukan artikel ilmiah melalui tautan seperti https://doi.org/....
+
+24. Open Access
+
+Open access adalah model akses publikasi ilmiah yang memungkinkan pembaca mengakses karya secara bebas melalui internet, dengan tetap memperhatikan ketentuan lisensi dan hak cipta.
+
+Contoh: Membaca artikel ilmiah yang tersedia secara gratis di situs jurnal open access.
+
+25. Plagiarisme
+
+Plagiarisme adalah tindakan menggunakan ide, tulisan, data, atau karya orang lain tanpa pengakuan atau atribusi yang semestinya.
+
+Contoh: Menyalin paragraf dari artikel ilmiah ke dalam makalah tanpa mencantumkan sumber.
+
+D. Istilah Referensi dan Pengelolaan Sumber
+
+26. Citation (Sitasi)
+
+Sitasi adalah penyebutan sumber yang digunakan atau dirujuk dalam sebuah tulisan untuk memberikan pengakuan kepada penulis sumber tersebut.
+
+Contoh: Mencantumkan nama penulis dan tahun terbit ketika merujuk teori dari suatu buku.
+
+27. Bibliography (Bibliografi)
+
+Bibliografi adalah daftar sumber bacaan atau referensi yang berkaitan dengan suatu karya. Cakupannya dapat lebih luas daripada sumber yang dikutip langsung, bergantung pada ketentuan penulisan.
+
+Contoh: Menyusun daftar buku, artikel, dan sumber lain yang digunakan dalam sebuah kajian.
+
+28. Reference List (Daftar Pustaka)
+
+Daftar pustaka adalah daftar sumber yang dirujuk dalam tulisan, sesuai dengan gaya sitasi yang digunakan.
+
+Contoh: Menyusun daftar pustaka artikel jurnal menggunakan format APA.
+
+29. Reference Manager
+
+Reference manager adalah perangkat lunak untuk mengumpulkan, mengatur, menyimpan, dan menyisipkan referensi dalam dokumen.
+
+Contoh: Menggunakan Zotero atau Mendeley untuk mengelola sumber artikel ilmiah.
+
+30. DOI Resolver
+
+DOI resolver adalah layanan yang mengarahkan DOI ke halaman tujuan objek digital yang terdaftar.
+
+Contoh: Membuka https://doi.org/ diikuti DOI artikel untuk menuju halaman artikel tersebut.
+
+31. Metadata
+
+Metadata adalah informasi yang menjelaskan karakteristik suatu dokumen atau objek digital, seperti judul, nama penulis, tanggal terbit, penerbit, kata kunci, dan pengenal dokumen.
+
+Contoh: Metadata artikel jurnal membantu mesin pencari akademik mengenali dan mengindeks artikel tersebut.
+
+E. Istilah Teknologi dan Kecerdasan Buatan (AI)
+
+32. Artificial Intelligence (AI)
+
+Artificial Intelligence atau kecerdasan buatan adalah teknologi yang memungkinkan sistem komputer melakukan tugas tertentu yang biasanya membutuhkan kemampuan manusia, seperti mengenali pola, memahami bahasa, atau menghasilkan konten.
+
+Contoh: Menggunakan AI untuk mendapatkan ide awal bagi sebuah artikel tentang literasi digital.
+
+33. Generative AI
+
+Generative AI adalah jenis AI yang dapat menghasilkan konten baru, seperti teks, gambar, audio, atau kode, berdasarkan pola yang dipelajari dari data.
+
+Contoh: Menggunakan AI generatif untuk membuat draf awal artikel blog yang kemudian diperiksa dan disunting oleh penulis.
+
+34. Prompt Engineering
+
+Prompt engineering adalah proses menyusun instruksi yang jelas dan terarah agar sistem AI menghasilkan jawaban yang lebih sesuai dengan kebutuhan.
+
+Contoh: Memberikan instruksi kepada AI untuk menjelaskan istilah literasi digital menggunakan bahasa sederhana bagi mahasiswa.
+
+35. Large Language Model (LLM)
+
+Large Language Model adalah model AI yang dilatih menggunakan data teks dalam jumlah besar untuk memproses dan menghasilkan bahasa.
+
+Contoh: Model bahasa dapat membantu menyusun ringkasan atau memberikan alternatif struktur tulisan.
+
+36. AI-Assisted Writing
+
+AI-assisted writing adalah proses menulis dengan bantuan AI, misalnya untuk mencari ide, menyusun kerangka, memperbaiki bahasa, atau merangkum bahan.
+
+Contoh: Penulis menggunakan AI untuk memeriksa kejelasan sebuah paragraf, kemudian memastikan hasil akhirnya akurat dan sesuai dengan maksud penulis.
+
+37. Fact-Checking
+
+Fact-checking adalah proses memeriksa kebenaran klaim atau informasi dengan membandingkannya terhadap sumber yang tepercaya.
+
+Contoh: Memastikan nama peneliti, tahun publikasi, statistik, dan DOI benar-benar sesuai dengan sumber aslinya.
+
+38. Hallucination pada AI
+
+AI hallucination adalah kondisi ketika sistem AI menghasilkan informasi yang keliru, tidak didukung bukti, atau tampak meyakinkan meskipun tidak benar.
+
+Contoh: AI memberikan judul artikel dan DOI yang ternyata tidak sesuai dengan publikasi sebenarnya.
+
+39. AI Detector
+
+AI detector adalah perangkat yang mencoba memperkirakan apakah suatu teks dihasilkan oleh AI. Hasil deteksinya tidak selalu akurat dan tidak dapat dijadikan bukti tunggal untuk menentukan siapa yang menulis sebuah teks.
+
+Contoh: Hasil alat pendeteksi AI perlu ditafsirkan secara hati-hati dan tidak menggantikan pemeriksaan proses penulisan maupun sumber yang digunakan.
+
+40. Digital Ethics (Etika Digital)
+
+Etika digital adalah prinsip perilaku yang bertanggung jawab ketika menggunakan teknologi dan berinteraksi di lingkungan digital.
+
+Contoh: Tidak mengklaim tulisan hasil AI sebagai penelitian asli tanpa pemeriksaan, pengungkapan, atau atribusi yang diwajibkan oleh aturan terkait.
+
+Kesimpulan
+
+Pemahaman terhadap istilah-istilah literasi digital merupakan bekal penting bagi mahasiswa, penulis, peneliti, dan pengelola blog. Pengetahuan ini membantu proses pembuatan buku, penyusunan artikel jurnal ilmiah, pengelolaan referensi, serta publikasi karya secara digital.
+
+Penggunaan AI dapat meningkatkan efisiensi penulisan, tetapi teknologi tersebut tetap perlu digunakan secara kritis. Penulis bertanggung jawab untuk memeriksa kebenaran informasi, memastikan keaslian karya, menghormati hak cipta, dan mengikuti ketentuan penerbit atau jurnal yang dituju.
+
+Dengan memahami istilah-istilah tersebut, kita dapat menjadi pengguna teknologi yang lebih cerdas sekaligus menghasilkan karya digital yang informatif, bertanggung jawab, dan bermanfaat bagi masyarakat.
+
+Tentang Penulis
+
+Septian Hidayat adalah mahasiswa ITB Vinus Bogor yang mempelajari literasi digital dan pemanfaatan kecerdasan buatan dalam kegiatan akademik. Artikel ini disusun sebagai bahan edukasi untuk memperkenalkan istilah-istilah penting dalam penulisan dan publikasi digital.
